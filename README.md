@@ -1,5 +1,9 @@
 # MiniChess Project
 
+
+<img width="652" alt="Screenshot 2024-02-02 at 9 46 12 PM" src="https://github.com/jonathan-4a/minichess/assets/100804161/88be0781-78db-4ff8-acce-ef41c20efeae">
+
+
 ## Overview
 
 The MiniChess Project is a Python-based chess game that utilizes Pygame for its graphical interface and implements the Minimax algorithm with Alpha-Beta pruning for its AI opponent. This project is designed to provide an engaging chess game experience, where a player can compete against an AI that calculates its moves based on game theory optimization techniques.
